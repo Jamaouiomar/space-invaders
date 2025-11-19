@@ -1,0 +1,1078 @@
+[2025-11-19 19:34:36] [INFO] 🚀 Lancement de Space Invaders - Design Patterns
+[2025-11-19 19:34:36] [INFO] Initialisation JavaFX...
+[2025-11-19 19:34:36] [INFO] 🎯 Launching Space Invaders - Design Patterns...
+[2025-11-19 19:34:37] [INFO] 🎮 Space Invaders - Design Patterns - Starting...
+[2025-11-19 19:34:37] [INFO] [STATE] Game initialized with state: MENU
+[2025-11-19 19:34:37] [INFO] JavaFX Application started successfully
+[2025-11-19 19:34:38] [INFO] [STATE] GUI: Showing Menu View
+[2025-11-19 19:34:40] [INFO] [STATE] GUI: Menu -> Starting Game
+[2025-11-19 19:34:40] [INFO] [STATE] Game: MENU -> PLAYING
+[2025-11-19 19:34:40] [INFO] [FACTORY] Factory requested for type: BASIC
+[2025-11-19 19:34:40] [INFO] [FACTORY] Factory requested for type: FAST
+[2025-11-19 19:34:40] [INFO] [FACTORY] Factory requested for type: TANK
+[2025-11-19 19:34:40] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien0
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: BasicAlien0
+[2025-11-19 19:34:40] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien1
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: BasicAlien1
+[2025-11-19 19:34:40] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien2
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: BasicAlien2
+[2025-11-19 19:34:40] [INFO] [FACTORY] FastEnemyFactory created: FastAlien3
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: FastAlien3
+[2025-11-19 19:34:40] [INFO] [FACTORY] FastEnemyFactory created: FastAlien4
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: FastAlien4
+[2025-11-19 19:34:40] [INFO] [FACTORY] FastEnemyFactory created: FastAlien5
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: FastAlien5
+[2025-11-19 19:34:40] [INFO] [FACTORY] TankEnemyFactory created: TankAlien6
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: TankAlien6
+[2025-11-19 19:34:40] [INFO] [FACTORY] TankEnemyFactory created: TankAlien7
+[2025-11-19 19:34:40] [INFO] [COMPOSITE] Enemy created: TankAlien7
+[2025-11-19 19:34:40] [INFO] [STATE] GUI: Showing Game View
+[2025-11-19 19:34:42] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:42] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:42] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:42] [INFO] Projectile hit FastAlien5
+[2025-11-19 19:34:42] [INFO] Explosion at (400.0, 200.0)
+[2025-11-19 19:34:45] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:46] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:46] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:46] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:47] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:47] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:47] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:47] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:47] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:48] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:48] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:49] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:49] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:49] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:49] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:49] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:49] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:49] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:49] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:50] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:50] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:50] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:50] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:51] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:51] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:51] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:51] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:51] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:51] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:52] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:52] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:52] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:52] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:52] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:53] [INFO] Projectile hit BasicAlien2
+[2025-11-19 19:34:53] [INFO] Explosion at (398.0, 180.0)
+[2025-11-19 19:34:54] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:54] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:54] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:55] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:56] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:56] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:56] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:56] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:56] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:56] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:34:56] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:34:57] [INFO] Projectile hit TankAlien6
+[2025-11-19 19:34:57] [INFO] Explosion at (489.0, 280.0)
+[2025-11-19 19:34:57] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:57] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:57] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:34:58] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:58] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:58] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:34:58] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:58] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:58] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:34:58] [INFO] Projectile hit TankAlien7
+[2025-11-19 19:34:58] [INFO] Explosion at (551.0, 280.0)
+[2025-11-19 19:34:58] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:58] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:58] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:34:59] [INFO] Touche pressée: LEFT
+[2025-11-19 19:34:59] [INFO] Touche pressée: SPACE
+[2025-11-19 19:34:59] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:34:59] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:34:59] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:00] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:00] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:00] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:00] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:00] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:00] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:00] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:00] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:35:00] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:00] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:00] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:00] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:35:00] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:01] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:01] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:01] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:35:01] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:01] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:01] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:01] [INFO] Projectile hit BasicAlien1
+[2025-11-19 19:35:01] [INFO] Explosion at (323.0, 220.0)
+[2025-11-19 19:35:01] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:01] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:01] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:01] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:01] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:02] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:02] [INFO] Projectile hit FastAlien4
+[2025-11-19 19:35:02] [INFO] Explosion at (223.0, 300.0)
+[2025-11-19 19:35:02] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:02] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:02] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:02] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:02] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:02] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:02] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:02] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:03] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:03] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:03] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:03] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:04] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:04] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:04] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:04] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:04] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:04] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:04] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:04] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:04] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:05] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:05] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:05] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:05] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:05] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:06] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:06] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:06] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:06] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:06] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:06] [INFO] Projectile hit BasicAlien0
+[2025-11-19 19:35:06] [INFO] Explosion at (106.0, 260.0)
+[2025-11-19 19:35:06] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:07] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:07] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:07] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:07] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:07] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:07] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:07] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:07] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:07] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:08] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:09] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:09] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:09] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:10] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:10] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:11] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:11] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:11] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:12] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:13] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:13] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:13] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:13] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:13] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:14] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:14] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:14] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:14] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:15] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:15] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:16] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:16] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:16] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:16] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:17] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:17] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:17] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:17] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:17] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:18] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:18] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:18] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:18] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:18] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:19] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:19] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:19] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:20] [INFO] Projectile hit FastAlien3
+[2025-11-19 19:35:20] [INFO] Explosion at (577.0, 340.0)
+[2025-11-19 19:35:21] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:21] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:21] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:35:22] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:22] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:22] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:35:22] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:22] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:22] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:35:22] [INFO] Touche pressée: SPACE
+[2025-11-19 19:35:22] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:35:22] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:35:23] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:23] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:23] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:23] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:23] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:23] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: UP
+[2025-11-19 19:35:24] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:24] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:25] [INFO] Touche pressée: UP
+[2025-11-19 19:35:26] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:26] [INFO] Touche pressée: DOWN
+[2025-11-19 19:35:26] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:26] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:27] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:27] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:27] [INFO] Touche pressée: DOWN
+[2025-11-19 19:35:27] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:28] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:28] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:29] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:35:29] [INFO] Touche pressée: LEFT
+[2025-11-19 19:35:29] [INFO] Touche pressée: UP
+[2025-11-19 19:35:29] [INFO] Touche pressée: UP
+[2025-11-19 19:35:32] [INFO] Touche pressée: P
+[2025-11-19 19:35:32] [INFO] [STATE] GUI: Game -> Pause
+[2025-11-19 19:35:32] [INFO] [STATE] GUI: Showing Pause View
+[2025-11-19 19:35:34] [INFO] [STATE] GUI: Pause -> Menu
+[2025-11-19 19:35:34] [INFO] [STATE] GUI: Showing Menu View
+[2025-11-19 19:35:36] [INFO] GUI: Switching to console mode
+[2025-11-19 19:35:37] [INFO] GUI: Switching to console mode
+[2025-11-19 19:35:38] [INFO] GUI: Switching to console mode
+[2025-11-19 19:35:53] [INFO] User confirmed exit
+[2025-11-19 19:35:53] [INFO] 👋 Exiting game...
+[2025-11-19 19:36:27] [INFO] 🚀 Lancement de Space Invaders - Design Patterns
+[2025-11-19 19:36:27] [INFO] Initialisation JavaFX...
+[2025-11-19 19:36:27] [INFO] 🎯 Launching Space Invaders - Design Patterns...
+[2025-11-19 19:36:27] [INFO] 🎮 Space Invaders - Design Patterns - Starting...
+[2025-11-19 19:36:27] [INFO] [STATE] Game initialized with state: MENU
+[2025-11-19 19:36:28] [INFO] JavaFX Application started successfully
+[2025-11-19 19:36:28] [INFO] [STATE] GUI: Showing Menu View
+[2025-11-19 19:36:29] [INFO] [STATE] GUI: Menu -> Starting Game
+[2025-11-19 19:36:29] [INFO] [STATE] Game: MENU -> PLAYING
+[2025-11-19 19:36:29] [INFO] [FACTORY] Factory requested for type: BASIC
+[2025-11-19 19:36:29] [INFO] [FACTORY] Factory requested for type: FAST
+[2025-11-19 19:36:29] [INFO] [FACTORY] Factory requested for type: TANK
+[2025-11-19 19:36:29] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien0
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: BasicAlien0
+[2025-11-19 19:36:29] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien1
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: BasicAlien1
+[2025-11-19 19:36:29] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien2
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: BasicAlien2
+[2025-11-19 19:36:29] [INFO] [FACTORY] FastEnemyFactory created: FastAlien3
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: FastAlien3
+[2025-11-19 19:36:29] [INFO] [FACTORY] FastEnemyFactory created: FastAlien4
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: FastAlien4
+[2025-11-19 19:36:29] [INFO] [FACTORY] FastEnemyFactory created: FastAlien5
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: FastAlien5
+[2025-11-19 19:36:29] [INFO] [FACTORY] TankEnemyFactory created: TankAlien6
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: TankAlien6
+[2025-11-19 19:36:29] [INFO] [FACTORY] TankEnemyFactory created: TankAlien7
+[2025-11-19 19:36:29] [INFO] [COMPOSITE] Enemy created: TankAlien7
+[2025-11-19 19:36:29] [INFO] [STATE] GUI: Showing Game View
+[2025-11-19 19:36:30] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:30] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:30] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:36:31] [INFO] Projectile hit FastAlien5
+[2025-11-19 19:36:31] [INFO] Explosion at (388.0, 200.0)
+[2025-11-19 19:36:32] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:32] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:32] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:36:32] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:32] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:32] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:36:32] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:32] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:32] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:33] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:33] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:33] [INFO] Projectile hit TankAlien6
+[2025-11-19 19:36:33] [INFO] Explosion at (415.0, 200.0)
+[2025-11-19 19:36:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:33] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:33] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:33] [INFO] Projectile hit BasicAlien2
+[2025-11-19 19:36:33] [INFO] Explosion at (394.0, 120.0)
+[2025-11-19 19:36:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:34] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:34] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:34] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:34] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:34] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:34] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:34] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:34] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:34] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:34] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:34] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:35] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:35] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:35] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:35] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:36:35] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:35] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:35] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:36:35] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:35] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:35] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:35] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:36:36] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:36] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:36] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:36:36] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:36] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:36] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:36] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:36:36] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:36] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:36] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:36:36] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:37] [INFO] Touche pressée: SPACE
+[2025-11-19 19:36:37] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:36:37] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:36:37] [INFO] Projectile hit BasicAlien1
+[2025-11-19 19:36:37] [INFO] Explosion at (398.0, 140.0)
+[2025-11-19 19:36:42] [INFO] User confirmed exit
+[2025-11-19 19:36:42] [INFO] 👋 Exiting game...
+[2025-11-19 19:37:11] [INFO] 🚀 Lancement de Space Invaders - Design Patterns
+[2025-11-19 19:37:11] [INFO] Initialisation JavaFX...
+[2025-11-19 19:37:11] [INFO] 🎯 Launching Space Invaders - Design Patterns...
+[2025-11-19 19:37:12] [INFO] 🎮 Space Invaders - Design Patterns - Starting...
+[2025-11-19 19:37:12] [INFO] [STATE] Game initialized with state: MENU
+[2025-11-19 19:37:12] [INFO] JavaFX Application started successfully
+[2025-11-19 19:37:13] [INFO] [STATE] GUI: Showing Menu View
+[2025-11-19 19:37:17] [INFO] [STATE] GUI: Menu -> Starting Game
+[2025-11-19 19:37:17] [INFO] [STATE] Game: MENU -> PLAYING
+[2025-11-19 19:37:17] [INFO] [FACTORY] Factory requested for type: BASIC
+[2025-11-19 19:37:17] [INFO] [FACTORY] Factory requested for type: FAST
+[2025-11-19 19:37:17] [INFO] [FACTORY] Factory requested for type: TANK
+[2025-11-19 19:37:17] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien0
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: BasicAlien0
+[2025-11-19 19:37:17] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien1
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: BasicAlien1
+[2025-11-19 19:37:17] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien2
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: BasicAlien2
+[2025-11-19 19:37:17] [INFO] [FACTORY] FastEnemyFactory created: FastAlien3
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: FastAlien3
+[2025-11-19 19:37:17] [INFO] [FACTORY] FastEnemyFactory created: FastAlien4
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: FastAlien4
+[2025-11-19 19:37:17] [INFO] [FACTORY] FastEnemyFactory created: FastAlien5
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: FastAlien5
+[2025-11-19 19:37:17] [INFO] [FACTORY] TankEnemyFactory created: TankAlien6
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: TankAlien6
+[2025-11-19 19:37:17] [INFO] [FACTORY] TankEnemyFactory created: TankAlien7
+[2025-11-19 19:37:17] [INFO] [COMPOSITE] Enemy created: TankAlien7
+[2025-11-19 19:37:17] [INFO] [STATE] GUI: Showing Game View
+[2025-11-19 19:37:18] [INFO] Touche pressée: SPACE
+[2025-11-19 19:37:18] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:37:18] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:37:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:37:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:37:19] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:37:19] [INFO] Projectile hit FastAlien5
+[2025-11-19 19:37:19] [INFO] Explosion at (389.0, 200.0)
+[2025-11-19 19:37:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:37:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:37:19] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:37:20] [INFO] Touche pressée: SPACE
+[2025-11-19 19:37:20] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:37:20] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:37:24] [INFO] User confirmed exit
+[2025-11-19 19:37:24] [INFO] 👋 Exiting game...
+[2025-11-19 19:43:39] [INFO] 🚀 Lancement de Space Invaders - Design Patterns
+[2025-11-19 19:43:39] [INFO] Initialisation JavaFX...
+[2025-11-19 19:43:39] [INFO] 🎯 Launching Space Invaders - Design Patterns...
+[2025-11-19 19:43:40] [INFO] 🎮 Space Invaders - Design Patterns - Starting...
+[2025-11-19 19:43:40] [INFO] [STATE] Game initialized with state: MENU
+[2025-11-19 19:43:40] [INFO] JavaFX Application started successfully
+[2025-11-19 19:43:40] [INFO] [STATE] GUI: Showing Menu View
+[2025-11-19 19:43:41] [INFO] [STATE] GUI: Menu -> Starting Game
+[2025-11-19 19:43:41] [INFO] [STATE] Game: MENU -> PLAYING
+[2025-11-19 19:43:41] [INFO] [FACTORY] Factory requested for type: BASIC
+[2025-11-19 19:43:41] [INFO] [FACTORY] Factory requested for type: FAST
+[2025-11-19 19:43:41] [INFO] [FACTORY] Factory requested for type: TANK
+[2025-11-19 19:43:41] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien0
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: BasicAlien0
+[2025-11-19 19:43:41] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien1
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: BasicAlien1
+[2025-11-19 19:43:41] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien2
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: BasicAlien2
+[2025-11-19 19:43:41] [INFO] [FACTORY] FastEnemyFactory created: FastAlien3
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: FastAlien3
+[2025-11-19 19:43:41] [INFO] [FACTORY] FastEnemyFactory created: FastAlien4
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: FastAlien4
+[2025-11-19 19:43:41] [INFO] [FACTORY] FastEnemyFactory created: FastAlien5
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: FastAlien5
+[2025-11-19 19:43:41] [INFO] [FACTORY] TankEnemyFactory created: TankAlien6
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: TankAlien6
+[2025-11-19 19:43:41] [INFO] [FACTORY] TankEnemyFactory created: TankAlien7
+[2025-11-19 19:43:41] [INFO] [COMPOSITE] Enemy created: TankAlien7
+[2025-11-19 19:43:41] [INFO] [STATE] GUI: Showing Game View
+[2025-11-19 19:43:42] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:42] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:43] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:43] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:43] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:43] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:43] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:43] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:44] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:44] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:44] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:44] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:45] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:45] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:45] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:45] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:45] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:45] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:46] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:46] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:46] [INFO] Touche pressée: SPACE
+[2025-11-19 19:43:46] [INFO] GUI: Action ESPACE - Tir
+[2025-11-19 19:43:49] [INFO] User confirmed exit
+[2025-11-19 19:43:49] [INFO] 👋 Exiting game...
+[2025-11-19 19:45:44] [INFO] 🚀 Lancement de Space Invaders - Design Patterns
+[2025-11-19 19:45:44] [INFO] Initialisation JavaFX...
+[2025-11-19 19:45:44] [INFO] 🎯 Launching Space Invaders - Design Patterns...
+[2025-11-19 19:45:44] [INFO] 🎮 Space Invaders - Design Patterns - Starting...
+[2025-11-19 19:45:44] [INFO] [STATE] Game initialized with state: MENU
+[2025-11-19 19:45:44] [INFO] JavaFX Application started successfully
+[2025-11-19 19:45:44] [INFO] [STATE] GUI: Showing Menu View
+[2025-11-19 19:45:46] [INFO] [STATE] GUI: Menu -> Starting Game
+[2025-11-19 19:45:46] [INFO] [STATE] Game: MENU -> PLAYING
+[2025-11-19 19:45:46] [INFO] [FACTORY] Factory requested for type: BASIC
+[2025-11-19 19:45:46] [INFO] [FACTORY] Factory requested for type: FAST
+[2025-11-19 19:45:46] [INFO] [FACTORY] Factory requested for type: TANK
+[2025-11-19 19:45:46] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien0
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: BasicAlien0
+[2025-11-19 19:45:46] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien1
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: BasicAlien1
+[2025-11-19 19:45:46] [INFO] [FACTORY] BasicEnemyFactory created: BasicAlien2
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: BasicAlien2
+[2025-11-19 19:45:46] [INFO] [FACTORY] FastEnemyFactory created: FastAlien3
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: FastAlien3
+[2025-11-19 19:45:46] [INFO] [FACTORY] FastEnemyFactory created: FastAlien4
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: FastAlien4
+[2025-11-19 19:45:46] [INFO] [FACTORY] FastEnemyFactory created: FastAlien5
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: FastAlien5
+[2025-11-19 19:45:46] [INFO] [FACTORY] TankEnemyFactory created: TankAlien6
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: TankAlien6
+[2025-11-19 19:45:46] [INFO] [FACTORY] TankEnemyFactory created: TankAlien7
+[2025-11-19 19:45:46] [INFO] [COMPOSITE] Enemy created: TankAlien7
+[2025-11-19 19:45:46] [INFO] [STATE] GUI: Showing Game View
+[2025-11-19 19:45:47] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:47] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:47] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:45:47] [INFO] Projectile hit FastAlien5
+[2025-11-19 19:45:47] [INFO] Explosion at (385.0, 180.0)
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:49] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:49] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:49] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:49] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:49] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:45:50] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:50] [INFO] Projectile hit BasicAlien2
+[2025-11-19 19:45:50] [INFO] Explosion at (415.0, 120.0)
+[2025-11-19 19:45:50] [INFO] Projectile hit TankAlien6
+[2025-11-19 19:45:50] [INFO] Explosion at (413.0, 200.0)
+[2025-11-19 19:45:52] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:52] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:52] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:53] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:53] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:53] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:53] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:53] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:54] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:54] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:54] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:54] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Projectile hit BasicAlien1
+[2025-11-19 19:45:54] [INFO] Explosion at (390.0, 140.0)
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:54] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:54] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:55] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:55] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:55] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:55] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:45:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:56] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:45:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:56] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:45:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:56] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:45:56] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:56] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:56] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:45:58] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:58] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:58] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:45:59] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:59] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:59] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:45:59] [INFO] Touche pressée: SPACE
+[2025-11-19 19:45:59] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:45:59] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:00] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:00] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:00] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:00] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:00] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:00] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:00] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:00] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:00] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:01] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:01] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:01] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:02] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:02] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:02] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:02] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:03] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:03] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:03] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:04] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:04] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:04] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:04] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:04] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:04] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:04] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:04] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:04] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:05] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:05] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:05] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:05] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:05] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:05] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:05] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:06] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:06] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:06] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:06] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:06] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:06] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:06] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:06] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:06] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:07] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:07] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:07] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:07] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:07] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:07] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:08] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:08] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:08] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:08] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:09] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:10] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:10] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:10] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:10] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:10] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:10] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:10] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:10] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:11] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:11] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:11] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:11] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:11] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:11] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:11] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:11] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:11] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:11] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:11] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:11] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:11] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:11] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:11] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:11] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:11] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:12] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:12] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:12] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:12] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:12] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:12] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:12] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:12] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:12] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:12] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:12] [INFO] Projectile hit FastAlien3
+[2025-11-19 19:46:12] [INFO] Explosion at (583.0, 260.0)
+[2025-11-19 19:46:12] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:13] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:13] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:13] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:13] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:13] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:13] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:14] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:14] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:14] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:14] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:16] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:16] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:16] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:16] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:17] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:17] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:17] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:17] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:18] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:18] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:18] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:18] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:19] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:19] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:19] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:19] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:19] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:19] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:19] [INFO] Touche pressée: NUMPAD0
+[2025-11-19 19:46:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:19] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:19] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:19] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:19] [INFO] Touche pressée: NUMPAD0
+[2025-11-19 19:46:19] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:20] [INFO] Touche pressée: NUMPAD0
+[2025-11-19 19:46:20] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:20] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:20] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:20] [INFO] Touche pressée: NUMPAD0
+[2025-11-19 19:46:20] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:20] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:20] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:20] [INFO] Touche pressée: NUMPAD0
+[2025-11-19 19:46:20] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:20] [INFO] Touche pressée: NUMPAD0
+[2025-11-19 19:46:20] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:20] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:20] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:21] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:21] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:21] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:21] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:21] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:21] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:21] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:21] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:21] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:21] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:21] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:21] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:21] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:21] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:21] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:22] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:22] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:22] [INFO] Nouveau projectile créé: 5 actifs
+[2025-11-19 19:46:22] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:22] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:22] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:22] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:22] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:22] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:22] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:22] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:23] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:23] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:23] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:23] [INFO] Nouveau projectile créé: 3 actifs
+[2025-11-19 19:46:23] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:23] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:23] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:23] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:23] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:23] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:23] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:23] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:24] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:24] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:24] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:24] [INFO] Nouveau projectile créé: 4 actifs
+[2025-11-19 19:46:33] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:33] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:33] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:33] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:33] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:33] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:33] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:34] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:34] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:34] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:34] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:34] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:34] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:34] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:34] [INFO] Projectile hit TankAlien7
+[2025-11-19 19:46:34] [INFO] Explosion at (671.0, 480.0)
+[2025-11-19 19:46:35] [INFO] Touche pressée: DOWN
+[2025-11-19 19:46:35] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:36] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:37] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:37] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:37] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:38] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:38] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:38] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:38] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:38] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:38] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:39] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:39] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:39] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:39] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:39] [INFO] Projectile hit FastAlien4
+[2025-11-19 19:46:39] [INFO] Explosion at (160.0, 500.0)
+[2025-11-19 19:46:39] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:40] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:40] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:40] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:40] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:40] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:40] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:40] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:41] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:41] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:41] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:41] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:41] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:42] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:42] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:42] [INFO] Nouveau projectile créé: 2 actifs
+[2025-11-19 19:46:42] [INFO] Touche pressée: LEFT
+[2025-11-19 19:46:42] [INFO] Projectile hit BasicAlien0
+[2025-11-19 19:46:42] [INFO] Explosion at (173.0, 440.0)
+[2025-11-19 19:46:42] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:42] [INFO] Touche pressée: RIGHT
+[2025-11-19 19:46:43] [INFO] Touche pressée: SPACE
+[2025-11-19 19:46:43] [INFO] GUI: Tir avec ESPACE
+[2025-11-19 19:46:43] [INFO] Nouveau projectile créé: 1 actifs
+[2025-11-19 19:46:47] [INFO] User confirmed exit
+[2025-11-19 19:46:47] [INFO] 👋 Exiting game...
